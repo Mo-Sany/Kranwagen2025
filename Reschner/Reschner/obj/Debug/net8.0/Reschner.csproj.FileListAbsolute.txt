@@ -1,0 +1,14 @@
+D:\Engineering\Programming\C#\Reschner\Reschner\obj\Debug\net8.0\Reschner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Engineering\Programming\C#\Reschner\Reschner\obj\Debug\net8.0\Reschner.AssemblyInfoInputs.cache
+D:\Engineering\Programming\C#\Reschner\Reschner\obj\Debug\net8.0\Reschner.AssemblyInfo.cs
+D:\Engineering\Programming\C#\Reschner\Reschner\obj\Debug\net8.0\Reschner.csproj.CoreCompileInputs.cache
+D:\Engineering\Programming\C#\Reschner\Reschner\bin\Debug\net8.0\Reschner.exe
+D:\Engineering\Programming\C#\Reschner\Reschner\bin\Debug\net8.0\Reschner.deps.json
+D:\Engineering\Programming\C#\Reschner\Reschner\bin\Debug\net8.0\Reschner.runtimeconfig.json
+D:\Engineering\Programming\C#\Reschner\Reschner\bin\Debug\net8.0\Reschner.dll
+D:\Engineering\Programming\C#\Reschner\Reschner\bin\Debug\net8.0\Reschner.pdb
+D:\Engineering\Programming\C#\Reschner\Reschner\obj\Debug\net8.0\Reschner.dll
+D:\Engineering\Programming\C#\Reschner\Reschner\obj\Debug\net8.0\refint\Reschner.dll
+D:\Engineering\Programming\C#\Reschner\Reschner\obj\Debug\net8.0\Reschner.pdb
+D:\Engineering\Programming\C#\Reschner\Reschner\obj\Debug\net8.0\Reschner.genruntimeconfig.cache
+D:\Engineering\Programming\C#\Reschner\Reschner\obj\Debug\net8.0\ref\Reschner.dll

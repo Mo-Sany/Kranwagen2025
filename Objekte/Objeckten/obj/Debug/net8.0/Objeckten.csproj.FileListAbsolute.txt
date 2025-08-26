@@ -1,0 +1,14 @@
+D:\Engineering\Programming\C#\Objeckten\Objeckten\obj\Debug\net8.0\Objeckten.GeneratedMSBuildEditorConfig.editorconfig
+D:\Engineering\Programming\C#\Objeckten\Objeckten\obj\Debug\net8.0\Objeckten.AssemblyInfoInputs.cache
+D:\Engineering\Programming\C#\Objeckten\Objeckten\obj\Debug\net8.0\Objeckten.AssemblyInfo.cs
+D:\Engineering\Programming\C#\Objeckten\Objeckten\obj\Debug\net8.0\Objeckten.csproj.CoreCompileInputs.cache
+D:\Engineering\Programming\C#\Objeckten\Objeckten\bin\Debug\net8.0\Objeckten.exe
+D:\Engineering\Programming\C#\Objeckten\Objeckten\bin\Debug\net8.0\Objeckten.deps.json
+D:\Engineering\Programming\C#\Objeckten\Objeckten\bin\Debug\net8.0\Objeckten.runtimeconfig.json
+D:\Engineering\Programming\C#\Objeckten\Objeckten\bin\Debug\net8.0\Objeckten.dll
+D:\Engineering\Programming\C#\Objeckten\Objeckten\bin\Debug\net8.0\Objeckten.pdb
+D:\Engineering\Programming\C#\Objeckten\Objeckten\obj\Debug\net8.0\Objeckten.dll
+D:\Engineering\Programming\C#\Objeckten\Objeckten\obj\Debug\net8.0\refint\Objeckten.dll
+D:\Engineering\Programming\C#\Objeckten\Objeckten\obj\Debug\net8.0\Objeckten.pdb
+D:\Engineering\Programming\C#\Objeckten\Objeckten\obj\Debug\net8.0\Objeckten.genruntimeconfig.cache
+D:\Engineering\Programming\C#\Objeckten\Objeckten\obj\Debug\net8.0\ref\Objeckten.dll
